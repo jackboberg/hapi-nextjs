@@ -1,7 +1,7 @@
 {
   "name": "hapi-nextjs",
   "description": "A nextjs plugin for hapi Edit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jack Boberg <hello@jackboberg.info> (http://jackboberg.info/)",
   "bugs": {
     "url": "https://github.com/jackboberg/hapi-nextjs/issues"
