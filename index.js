@@ -1,5 +1,5 @@
 const Next = require('next')
-const Package = require('next/package.json')
+const { name, version } = require('./package.json')
 
 exports.register = (server, options, next) => {
   const app = Next(options)
@@ -18,4 +18,4 @@ exports.register = (server, options, next) => {
   })
 }
 
-exports.register.attributes = { pkg: Package }
+exports.register.attributes = { pkg: { name, version } }
