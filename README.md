@@ -1,5 +1,7 @@
 # hapi-nextjs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jackboberg/hapi-nextjs.svg)](https://greenkeeper.io/)
+
 [![npm][npm-image]][npm-url]
 [![standard][standard-image]][standard-url]
 
